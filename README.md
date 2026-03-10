@@ -1,21 +1,33 @@
 <<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Smart Harvester 🌾
+Description
+Smart Harvester is a web-based application designed to assist farmers in monitoring and managing harvesting activities efficiently.
 
-Currently, two official plugins are available:
+Features
+Crop monitoring interface
+Smart harvesting assistance
+User-friendly dashboard
+Responsive design
+Technologies Used
+React
+Vite
+JavaScript
+CSS
+HTML
+Installation
+Clone the repository:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+git clone https://github.com/Saichethanakotla/Ai-harvest-prediction-and-crop-suggestion-system.git
 
-## React Compiler
+Install dependencies:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+npm install
 
-## Expanding the ESLint configuration
+Run the project:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# SmartHarvester
-Developed a web application that predicts optimal crop harvest time based on climate conditions and market price trends.
+npm run dev
+
+Author
+Saichethanakotla
 >>>>>>> 4f2894aaa1a6d3daecf4c30907bee10aa1f5639d
